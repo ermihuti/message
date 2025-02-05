@@ -39,6 +39,5 @@ Install the necessary dependencies specified in the package.json file.
 Once you've created the project and installed dependencies with `npm install`, start a development server:
 
 ```bash
-# Start the server and open the app in a new browser tab
 npm run dev
 ```
