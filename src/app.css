@@ -1,28 +1,50 @@
+/* Reset default margin for the body */
 body {
     margin: 0;
+    /* Set the default font for the document */
     font-family: Arial, sans-serif;
+    /* Set the background color for the body */
     background-color: #f4f4f4;
+    /* Set the default text color */
     color: #333;
 }
 
+/* Style for the header section */
 header {
+    /* Set the background color for the header */
     background-color: #09122C;
+    /* Set the text color for the header */
     color: white;
+    /* Add padding inside the header */
     padding: 50px;
+    /* Center the text inside the header */
     text-align: center;
+    /* Fix the header at the top of the page */
     position: fixed;
+    /* Make the header span the full width of the page */
     width: 100%;
+    /* Position the header at the top */
     top: 0;
+    /* Align the header to the left */
     left: 0;
 }
 
+/* Style for the footer section */
 footer {
+    /* Set the background color for the footer */
     background-color: #BE3144;
+    /* Set the text color for the footer */
     color: white;
+    /* Add padding inside the footer */
     padding: 50px;
+    /* Center the text inside the footer */
     text-align: center;
+    /* Fix the footer at the bottom of the page */
     position: fixed;
+    /* Make the footer span the full width of the page */
     width: 100%;
+    /* Position the footer at the bottom */
     bottom: 0;
+    /* Align the footer to the left */
     left: 0;
 }
