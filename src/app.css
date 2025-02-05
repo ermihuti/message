@@ -2,21 +2,21 @@
 body {
     margin: 0;
     /* Set the default font for the document */
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
     /* Set the background color for the body */
-    background-color: #f4f4f4;
+    background-color: #e0f7fa;
     /* Set the default text color */
-    color: #333;
+    color: #212121;
 }
 
 /* Style for the header section */
 header {
     /* Set the background color for the header */
-    background-color: #09122C;
+    background-color: #00695c;
     /* Set the text color for the header */
     color: white;
     /* Add padding inside the header */
-    padding: 50px;
+    padding: 40px;
     /* Center the text inside the header */
     text-align: center;
     /* Fix the header at the top of the page */
@@ -32,11 +32,11 @@ header {
 /* Style for the footer section */
 footer {
     /* Set the background color for the footer */
-    background-color: #BE3144;
+    background-color: #004d40;
     /* Set the text color for the footer */
     color: white;
     /* Add padding inside the footer */
-    padding: 50px;
+    padding: 40px;
     /* Center the text inside the footer */
     text-align: center;
     /* Fix the footer at the bottom of the page */
